@@ -11,6 +11,7 @@ Just another repository
  {
      cout<<str[i]<<endl;
   }
+   system("pause");
    return 0;
   }
   
